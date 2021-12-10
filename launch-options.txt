@@ -1,1 +1,1 @@
--novid -tickrate 128 -refresh 144 -language english +exec _override
+-novid -tickrate 128 -refresh 144 -language english -lv +exec _override
